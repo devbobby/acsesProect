@@ -22,7 +22,6 @@
 - Edit Profile
 - Add/Edit Address
 - Buy Materials From Farmer
-- Payapal Gateway
 - Cart Page
 - Change Quantity
 - Remove Product from Cart Page
@@ -52,7 +51,6 @@ PAYPAL_CLIENT_ID = your paypal client id
 Create a .env file inside frontend and add the following
 
 ```
-REACT_APP_GOOGLE_KEY = "add google map api key"
 ```
 
 ### Install Dependencies (frontend & backend)
